@@ -1,4 +1,4 @@
-# Netflix-Data-Analyzer-
+
 #  Netflix Data Analyzer (Mini Project)
 
 This is a mini project built using **Python** and **Streamlit** that visualizes and analyzes Netflix content data such as movies and TV shows. It helps users understand the distribution of content by type, country, rating, and more.
